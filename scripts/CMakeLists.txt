@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 2.8)
 
 install(
-  PROGRAMS genmsg_cpp.py gensrv_cpp.py
+  PROGRAMS gen_cpp.py
   DESTINATION bin)
 
 install(
